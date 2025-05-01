@@ -1,0 +1,16 @@
+HARDWARE-
+
+Processor (CPU): Lenovo i5
+RAM: 8 GB/16 GB or higher
+Storage: 256 GB SSD/512 GB SSD or higher
+Internet: Stable Wi-Fi connection, High-speed broadband
+
+SOFTWARE-
+
+Text Editor / IDE: VS Code
+Web Server: Apache or Nginx (XAMPP/LAMP/WAMP for local use)
+Backend Language:  Python (Django/Flask), or Java (Spring Boot)
+Frontend Stack:	HTML, CSS, JavaScript, Bootstrap
+Database:  MongoDB
+Version Control: Git with GitHub or GitLab
+Browser: Chrome, Firefox (with DevTools)
