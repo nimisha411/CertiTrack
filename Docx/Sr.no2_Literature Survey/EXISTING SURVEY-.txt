@@ -1,0 +1,20 @@
+EXISTING SURVEY-
+
+Existing Survey on Online Government Certificate Issuance
+The transition to digital government services, including the online issuance of official certificates, has been the subject of increasing academic interest in recent years. Researchers have focused on areas such as system design, technological adoption, security, and citizen trust.A study by Nurhasanah et al. (2021) explored the design of a digital certificate issuance system for events and training, highlighting the shift from paper-based to environmentally friendly and efficient digital documentation [1]. 
+Such systems demonstrate the basic framework for broader government applications.To address certificate authenticity, particularly in academic and government settings, Singh and colleagues (2023) introduced DocCert, a blockchain-based document verification platform. This system ensures security, transparency, and tamper-proof issuance of digital documents [2]. 
+The study supports the integration of blockchain technology into e-Governance platforms.In the Indian context, George and Joseph (2022) examined the success of Akshaya e-Kendras (common service centers) and identified key success factors like ease of access, trust, and public awareness as critical to the adoption of digital certificate services [3]. 
+Their empirical study emphasized how local implementation influences user adoption.Alfarraj et al. (2012) applied the UTAUT model to assess the adoption of e-Government services in Saudi Arabia, focusing on the importance of website quality in increasing citizen engagement and satisfaction [4]. 
+This model provides a theoretical basis for understanding why citizens adopt online certificate issuance services.Finally, Sivathanu (2018) analyzed cloud-based e-Governance services in India, such as DigiLocker, which allows citizens to access verified digital documents. The study revealed that performance expectancy, trust, and facilitating conditions were major adoption drivers [5]. 
+
+REFERENCES:-
+
+1.Nurhasanah, D., Yuliantoro, H., & Setiawan, R. (2021). Designing digital certificate issuance information system. IOP Conference Series: Materials Science and Engineering, 1158(1), 012018. https://doi.org/10.1088/1757-899X/1158/1/012018
+
+2.Singh, A., et al. (2023). DocCert: Nostrification, Document Verification and Authenticity Blockchain Solution. arXiv. https://arxiv.org/abs/2310.09136
+
+3.George, A., & Joseph, B. (2022). Key Success Factors for the e-Governance Initiatives Through Common Service Centres in India: An Empirical Study with Special Reference to Akshaya e-Kendras in Kerala. Indian Journal of Public Administration. https://doi.org/10.1177/00195561221123792
+
+4.Alfarraj, O., Drew, S., & AlGhamdi, R. (2012). The Effects of Website Quality on Adoption of E-Government Service: An Empirical Study Applying UTAUT Model Using SEM. arXiv. https://arxiv.org/abs/1211.2410
+
+5.Sivathanu, B. (2018). An Empirical Study of Cloud-Based E-Governance Services Adoption in India. International Journal of Electronic Government Research (IJEGR), 14(1), 47–65. https://www.econbiz.de/Record/an-empirical-study-of-cloud-based-e-governance-services-adoption-in-india-sivathanu-brijesh/10012044401
